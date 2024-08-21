@@ -1,2 +1,3 @@
-# prog_1
- Programming course at my school 
+# Programmering 1
+ Programming course at my school. 
+ Mostly C#
